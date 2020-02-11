@@ -1,5 +1,8 @@
-"Release Jenkins, 15 ans plus tard"
+<!-- .slide: data-background="./images/me.png" -->
 
-![belgium](./images/jenkins_belgium.jpg)
-
-Olivier Vernin "Olblak" @CloudBees  
+Note:
+* Projet
+* Administrateur Jenkins
+* Utilisateur Jenkins
+* Cas d'utilisation projet infra
+* Cloud Native
