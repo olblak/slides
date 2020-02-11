@@ -9,8 +9,8 @@
 
 ## Pluggable Storage
 
-Available   : Artifacts  - Credentials - System logs  
-In Progress : Build Logs - Configuration - Test Results  
+Available   : Artifacts  - Credentials - System logs
+In Progress : Build Logs - Configuration - Test Results
 Not Started : Tasks Logs - Runs - Jobs - Workspaces
 
 
@@ -25,6 +25,7 @@ Not Started : Tasks Logs - Runs - Jobs - Workspaces
 
 Note:
 * Package immutable version of jenkins
+
 
 ## Jenkins Kubernetes Operator
 

@@ -71,5 +71,7 @@ Note:
 
 ## Process
 
+![package](./images/package.png)
+
 
 <!-- .slide: data-background="./images/contribute_to.png" -->

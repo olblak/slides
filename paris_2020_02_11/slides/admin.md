@@ -99,7 +99,7 @@ instance.save()
 ```
 
 
-## JobDSL
+## Tache - JobDSL
 
 ```
 multibranchPipelineJob('core-package') {
@@ -164,8 +164,8 @@ jenkins:
 
 ## &#9728;
 
-* Ecosystem 
-* Liberté Totale 
+* Ecosystem
+* Liberté Totale
  * Nom
  * Release
  * Maintenance
@@ -173,15 +173,13 @@ jenkins:
 
 ## &#9762;
 
-* Liberté Totale 
+* Liberté Totale
  * Nom
  * Release
  * Maintenance
 
 
-## Plugin Site
-
-![PluginSite](./images/pluginsite.png)  
+![PluginSite](./images/pluginsite2.png)  
 
 Note:
 * Readme.md vs Confluence

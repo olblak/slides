@@ -1,16 +1,12 @@
-# Project 
+# Project
 
 ![Jenkins](./images/jenkins.png)
 
 Note:
 * Serveur d'automatisation de tâche OSS
 
-* Qui n'a jamais entendu parle de Jenkins?
-* Qui utilise Jenkins 2.x?
-* Qui utilise Jenkins 1.x?
 
-
-### Jenkins fête ses 15 ans 
+### Jenkins fête ses 15 ans
 
 Ete 2004 - 7 Février 2005  
 
@@ -29,10 +25,14 @@ Ete 2004 - 7 Février 2005
 ```
 
 Note: 
+* Qui n'a jamais entendu parle de Jenkins?
+* Qui utilise Jenkins 2.x?
+* Qui utilise Jenkins 1.x?
+
 * https://www.dropbox.com/s/wv8b5ccuczm7zje/Hudson%20J1%202007.pptx?dl=0#
 * https://fr.wikipedia.org/wiki/Docker_%28logiciel%29
 * https://en.wikipedia.org/wiki/Kubernetes
-* https://en.wikipedia.org/wiki/Amazon_Web_Services 
+* https://en.wikipedia.org/wiki/Amazon_Web_Services
 * https://en.wikipedia.org/wiki/Hudson_(software)
 
 ![Timeline](./images/timeline.png)
@@ -54,8 +54,6 @@ Note:
 ![2019](./images/numbers_2019.png)
 
 
-## D'autre Moins
-
 ![Hudson](./images/hudson.png)  
 
 UX SIG https://jenkins.io/sigs/ux/
@@ -69,12 +67,15 @@ UX SIG https://jenkins.io/sigs/ux/
 
 ## Gouvernance
 
-* SPI => Fondation Linux
+* SPI => CDF
 * 5 Membres du conseil d'administration
-* 7 Officiers 
+* 7 Officiers
  * Infrastructure
  * Documentation
  * Release
- * Securitee
+ * Securité
  * Evenement
-* Decision: JEP/IEP
+
+
+## [jenkinsci/jep](https://github.com/jenkinsci/jep)
+## [jenkins-infra/iep](https://github.com/jenkins-infra/iep)
